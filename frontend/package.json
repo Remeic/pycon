@@ -8,6 +8,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-emotion": "^9.0.2",
+    "react-feather": "^1.0.8",
     "react-scripts-ts": "2.13.0"
   },
   "scripts": {
