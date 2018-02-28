@@ -2,7 +2,7 @@ const breakpoints = ['40em', '52em', '64em'];
 
 const colors = {
   text: '#024',
-  blue: '#07c',
+  blue: '#EFEFEF',
 
   dark: {
     blue: '#058'
